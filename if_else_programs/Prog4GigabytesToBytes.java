@@ -8,6 +8,7 @@ import javax.swing.JOptionPane;
  * 
  *         Create a program that reads the storage capacity of a FlashDrive in
  *         Gigabytes, calculate and write this measurement in bytes.
+ *
  */
 
 public class Prog4GigabytesToBytes {
