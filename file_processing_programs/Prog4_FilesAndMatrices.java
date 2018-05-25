@@ -16,7 +16,7 @@ import java.io.IOException;
  *         data in the matrix format. Use functions to read and write the array.
  */
 
-public class Prog4FilesAndMatrices {
+public class Prog4_FilesAndMatrices {
 
 	public static int[][] readMatrix(String path) {
 		int matrix[][] = null;
