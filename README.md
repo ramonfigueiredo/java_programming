@@ -2,12 +2,12 @@ Some programming examples in Java
 ===========================
 
 ## Contents
-1. [Conditional Operators: if, else, switch case, ? :](#conditional_operators)
-2. [Loop: for, while, do while](#loop)
-3. [Vector and Matrix](#vector_and_matrix)
-4. [Methods and Recursion](#methods_and_recursion)
+1. [Conditional Operators: if, else, switch case, ? :](#Conditional)
+2. [Loop: for, while, do while](#Loop)
+3. [Vector and Matrix](#Vector/Matrix)
+4. [Methods and Recursion](#Methods/Recursion)
 
-## Conditional Operators: if, else, switch case, ? :
+## Conditional
 
 1. Create a program to read a number
 	* If the number is even, display the text "The number is even"
@@ -25,8 +25,8 @@ Some programming examples in Java
 
 5. Create a program that reads a temperature in Farenheit degrees. Calculate and write this temperature in degrees Celsius.
 
-## Loop: for, while, do while
+## Loop
 
-## Vector and Matrix
+## Vector/Matrix
 
-## Methods and Recursion
+## Methods/Recursion
