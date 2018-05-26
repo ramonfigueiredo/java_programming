@@ -13,7 +13,7 @@ Some programming examples in Java
 	* If the number is even, display the text "The number is even"
 	* If not, display the text "The number is odd"
 
-Solution: https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog1EvenOdd.java
+Solution (Java): https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog1EvenOdd.java
 
 2. Create a program to:
 	* Read two numbers
@@ -21,11 +21,19 @@ Solution: https://github.com/ramon-pessoa/java_programming/blob/master/if_else_p
 	* Show whether the second number is positive, negative or zero
 	* Show the result of addition, subtraction, multiplication and division of the two numbers
 
+Solution (Java): https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog2PositiveNegativeZeroArithmeticOperations.java
+
 3. Create a program that reads 3 integers and print how many are even and how many are odd.
+
+Solution (Java): https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog3HowManyNumberEvenOrOdd.java
 
 4. Create a program that reads the storage capacity of a flash drive in Gigabytes, calculate and write this measurement in bytes.
 
+Solution (Java): https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog4GigabytesToBytes.java
+
 5. Create a program that reads a temperature in Farenheit degrees. Calculate and write this temperature in degrees Celsius.
+
+Solution (Java): https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog5FarenheitToCelsius.java
 
 ## Loop
 
@@ -38,7 +46,7 @@ Solution: https://github.com/ramon-pessoa/java_programming/blob/master/if_else_p
 
 4. Create a program that reads an indeterminate number of numbers, when the number read is zero, ends the data entry. Show the largest number read.
 
-5. Calculate how many $m^2$ of vegetation will be needed to cover the roof of a sustainable house. Consider that the roof of the house is rectangular. The user must inform the dimensions of the roof (length and width). It is known that the vegetation must cover 80% of the area to develop. Create a way to allow the user to do the calculations multiple times (undetermined number of repetitions).
+5. Calculate how many m^2 of vegetation will be needed to cover the roof of a sustainable house. Consider that the roof of the house is rectangular. The user must inform the dimensions of the roof (length and width). It is known that the vegetation must cover 80% of the area to develop. Create a way to allow the user to do the calculations multiple times (undetermined number of repetitions).
 
 ## Arrays
 
