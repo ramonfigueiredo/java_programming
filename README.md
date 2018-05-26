@@ -2,10 +2,10 @@ Some programming examples in Java
 ===========================
 
 ## Contents
-1. [Conditional](#Conditional)
-2. [Loop](#Loop)
-3. [Vector/Matrix](#Vector/Matrix)
-4. [Methods/Recursion](#Methods/Recursion)
+1. [Conditional](#conditional)
+2. [Loop](#loop)
+3. [Arrays](#arrays)
+4. [Methods](#methods)
 
 ## Conditional
 
@@ -27,6 +27,6 @@ Some programming examples in Java
 
 ## Loop
 
-## Vector/Matrix
+## Arrays
 
-## Methods/Recursion
+## Methods
