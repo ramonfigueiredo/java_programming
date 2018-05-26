@@ -29,7 +29,7 @@ Solution (Java): [Prog3HowManyNumberEvenOrOdd.java](https://github.com/ramon-pes
 
 4. Create a program that reads the storage capacity of a flash drive in Gigabytes, calculate and write this measurement in bytes.
 	* Simple sequential structure, without the use of conditional operators.
-	
+
 Solution (Java): [Prog4GigabytesToBytes.java](https://github.com/ramon-pessoa/java_programming/blob/master/conditional_operators/Prog4GigabytesToBytes.java)
 
 5. Create a program that reads a temperature in Farenheit degrees. Calculate and write this temperature in degrees Celsius.
@@ -41,14 +41,24 @@ Solution (Java): [Prog5FarenheitToCelsius.java](https://github.com/ramon-pessoa/
 
 1. Create a program that reads 20 integers and print how many are even and how many are odd.
 
+Solution (Java): [Prog1EvenOrOdd.java](https://github.com/ramon-pessoa/java_programming/blob/master/loops/Prog1EvenOrOdd.java)
+
 2. Create a program that reads the number of terms of the Series that you want to display on the screen, determine and show the values according to the series:
 	* Series: 2, 4, 8, 16, 32, 64, 128 ...
 
+Solution (Java): [Prog2LoopToPrintSeries.java.java](https://github.com/ramon-pessoa/java_programming/blob/master/loops/Prog2LoopToPrintSeries.java)
+
 3. Create a program that receives the profit of a work A of 400m^2. It is known that the profit of a work B of 200m^2 equivalent to 1/3 of that of 400mm^2. If the company applies the profit of work A entirely in the savings account, which is yielding 2% per month and the work B will fully apply to the fixed income fund, which is yielding 5% per month. Calculate and show the number of months needed for the profit of work B to equal or exceed the profit of Work A.
+
+Solution (Java): [Prog3MonthsToWorkBExceedsWorkA.java](https://github.com/ramon-pessoa/java_programming/blob/master/loops/Prog3MonthsToWorkBExceedsWorkA.java)
 
 4. Create a program that reads an indeterminate number of numbers, when the number read is zero, ends the data entry. Show the largest number read.
 
+Solution (Java): [Prog4TheLargestNumber.java](https://github.com/ramon-pessoa/java_programming/blob/master/loops/Prog4TheLargestNumber.java)
+
 5. Calculate how many m^2 of vegetation will be needed to cover the roof of a sustainable house. Consider that the roof of the house is rectangular. The user must inform the dimensions of the roof (length and width). It is known that the vegetation must cover 80% of the area to develop. Create a way to allow the user to do the calculations multiple times (undetermined number of repetitions).
+
+Solution (Java): [Prog5VegetationToCoverTheRoof.java](https://github.com/ramon-pessoa/java_programming/blob/master/loops/Prog5VegetationToCoverTheRoof.java)
 
 ## Arrays
 
