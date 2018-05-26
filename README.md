@@ -2,9 +2,12 @@ Some programming examples in Java
 ===========================
 
 ## Contents
-1. [Sequential Structure: if else](#sequential_structure_if_else)
+1. [Conditional Operators: if, else, switch case, ? :](#conditional_operators)
+2. [Loop: for, while, do while](#loop)
+3. [Vector and Matrix](#vector_and_matrix)
+4. [Methods and Recursion](#methods_and_recursion)
 
-## Sequential Structure: if else
+## Conditional Operators: if, else, switch case, ? :
 
 1. Create a program to read a number
 	* If the number is even, display the text "The number is even"
@@ -21,3 +24,9 @@ Some programming examples in Java
 4. Create a program that reads the storage capacity of a flash drive in Gigabytes, calculate and write this measurement in bytes.
 
 5. Create a program that reads a temperature in Farenheit degrees. Calculate and write this temperature in degrees Celsius.
+
+## Loop: for, while, do while
+
+## Vector and Matrix
+
+## Methods and Recursion
