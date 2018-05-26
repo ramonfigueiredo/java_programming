@@ -62,4 +62,24 @@ Solution (Java): [Prog5VegetationToCoverTheRoof.java](https://github.com/ramon-p
 
 ## Arrays
 
+1. Create a program that reads 5 student's scores and stores them in a vector. Calculate the arithmetic mean of the scores.
+
+Solution (Java): [Prog1AverageFiveStudentScores.java](https://github.com/ramon-pessoa/java_programming/blob/master/arrays/Prog1AverageFiveStudentScores.java)
+
+2. Create a program to read and store an X vector with 10 elements. Generate a second vector Y containing all the even and negative elements of X. Print it on the screen.
+
+Solution (Java): [Prog2VectorWithEvenAndNegativeElements.java](https://github.com/ramon-pessoa/java_programming/blob/master/arrays/Prog2VectorWithEvenAndNegativeElements.java)
+
+3. Create a program to read data in two X and Y vectors with 10 positions each. Create a third vector Z that has the sum of the positions of the previous vectors. For example: Position 1 of X with position 1 of Y and store in position 1 of Z.
+
+Solution (Java): [Prog3SumOfVectors.java](https://github.com/ramon-pessoa/java_programming/blob/master/arrays/Prog3SumOfVectors.java)
+
+4. Create a program that reads the values and stores it in a 3x3 matrix. Create the 3x3 identity matrix.
+
+Solution (Java): [Prog4_3x3_IdentityMatrix.java](https://github.com/ramon-pessoa/java_programming/blob/master/arrays/Prog4_3x3_IdentityMatrix.java)
+
+5. Create a program to read and store values in an X 2x3 matrix. Generate a vector Y containing all the even and negative elements of X. Print it on the screen.
+
+Solution (Java): [Prog5TransferEvenAndNegativeElementsFromMatrixToVector.java](https://github.com/ramon-pessoa/java_programming/blob/master/arrays/Prog5TransferEvenAndNegativeElementsFromMatrixToVector.java)
+
 ## Methods
