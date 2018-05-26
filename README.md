@@ -13,6 +13,8 @@ Some programming examples in Java
 	* If the number is even, display the text "The number is even"
 	* If not, display the text "The number is odd"
 
+Solution: https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog1EvenOdd.java
+
 2. Create a program to:
 	* Read two numbers
 	* Show if the first number is positive, negative or zero
