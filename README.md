@@ -38,7 +38,7 @@ Solution: https://github.com/ramon-pessoa/java_programming/blob/master/if_else_p
 
 4. Create a program that reads an indeterminate number of numbers, when the number read is zero, ends the data entry. Show the largest number read.
 
-5. Calculate how many m^2 of vegetation will be needed to cover the roof of a sustainable house. Consider that the roof of the house is rectangular. The user must inform the dimensions of the roof (length and width). It is known that the vegetation must cover 80% of the area to develop. Create a way to allow the user to do the calculations multiple times (undetermined number of repetitions).
+5. Calculate how many $m^2$ of vegetation will be needed to cover the roof of a sustainable house. Consider that the roof of the house is rectangular. The user must inform the dimensions of the roof (length and width). It is known that the vegetation must cover 80% of the area to develop. Create a way to allow the user to do the calculations multiple times (undetermined number of repetitions).
 
 ## Arrays
 
