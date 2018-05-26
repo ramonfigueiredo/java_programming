@@ -21,19 +21,19 @@ Solution (Java): [Prog1EvenOdd.java](https://github.com/ramon-pessoa/java_progra
 	* Show whether the second number is positive, negative or zero
 	* Show the result of addition, subtraction, multiplication and division of the two numbers
 
-Solution (Java): https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog2PositiveNegativeZeroArithmeticOperations.java
+Solution (Java): [Prog2PositiveNegativeZeroArithmeticOperations.java](https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog2PositiveNegativeZeroArithmeticOperations.java)
 
 3. Create a program that reads 3 integers and print how many are even and how many are odd.
 
-Solution (Java): https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog3HowManyNumberEvenOrOdd.java
+Solution (Java): [Prog3HowManyNumberEvenOrOdd.java](https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog3HowManyNumberEvenOrOdd.java)
 
 4. Create a program that reads the storage capacity of a flash drive in Gigabytes, calculate and write this measurement in bytes.
 
-Solution (Java): https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog4GigabytesToBytes.java
+Solution (Java): [Prog4GigabytesToBytes.java](https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog4GigabytesToBytes.java)
 
 5. Create a program that reads a temperature in Farenheit degrees. Calculate and write this temperature in degrees Celsius.
 
-Solution (Java): https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog5FarenheitToCelsius.java
+Solution (Java): [Prog4GigabytesToBytes.java](https://github.com/ramon-pessoa/java_programming/blob/master/if_else_programs/Prog5FarenheitToCelsius.java)
 
 ## Loop
 
