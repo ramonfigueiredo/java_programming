@@ -32,8 +32,10 @@ Solution (Java): [Prog3HowManyNumberEvenOrOdd.java](https://github.com/ramon-pes
 Solution (Java): [Prog4GigabytesToBytes.java](https://github.com/ramon-pessoa/java_programming/blob/master/conditional_operators/Prog4GigabytesToBytes.java)
 
 5. Create a program that reads a temperature in Farenheit degrees. Calculate and write this temperature in degrees Celsius.
+	* Simple sequential structure, without the use of conditional operators.
 
-Solution (Java): [Prog4GigabytesToBytes.java](https://github.com/ramon-pessoa/java_programming/blob/master/conditional_operators/Prog5FarenheitToCelsius.java)
+Solution (Java): [Prog5FarenheitToCelsius.java](https://github.com/ramon-pessoa/java_programming/blob/master/conditional_operators/Prog5FarenheitToCelsius.java)
+	* Simple sequential structure, without the use of conditional operators.
 
 ## Loop
 
