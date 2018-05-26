@@ -1,7 +1,10 @@
 Some programming examples in Java
 ===========================
 
-### Sequential Structure: if else
+## Contents
+1. [Sequential Structure: if else](#sequential_structure_if_else)
+
+## Sequential Structure: if else
 
 1. Create a program to read a number
 	* If the number is even, display the text "The number is even"
