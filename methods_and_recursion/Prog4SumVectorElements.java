@@ -19,7 +19,6 @@ public class Prog4SumVectorElements {
 		int i, sum = 0;
 		for (i = 0; i < size; i++) {
 			sum = sum + vector[i];
-
 		}
 		return sum;
 	}

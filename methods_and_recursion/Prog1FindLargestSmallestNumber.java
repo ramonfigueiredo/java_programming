@@ -28,7 +28,6 @@ public class Prog1FindLargestSmallestNumber {
 	}
 
 	public static void main(String[] args) {
-		// TODO code application logic here
 		Scanner read = new Scanner(System.in);
 
 		int a, b;
