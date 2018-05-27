@@ -150,72 +150,72 @@ Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/bl
 
 ![Prog2_UML_Employee.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog2_UML_Employee.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P2_Employee)
+Solution (Java): [P2_Employee](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P2_Employee)
 
 3. Create a program to represent the UML: 
 
 ![Prog3_UML_Account.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog3_UML_Account.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P3_Account)
+Solution (Java): [P3_Account](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P3_Account)
 
 4. Create a program to represent the UML: 
 
 ![Prog4_UML_Date.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog4_UML_Date.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P4_Date)
+Solution (Java): [P4_Date](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P4_Date)
 
 5. Create a program to represent the UML: 
 
 ![Prog5_UML_Time.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog5_UML_Time.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P5_Time)
+Solution (Java): [P5_Time](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P5_Time)
 
 6. Create a program to represent the UML: 
 
 ![Prog6_UML_Author.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog6_UML_Author.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P6_Author)
+Solution (Java): [P6_Author](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P6_Author)
 
 7. Create a program to represent the UML: 
 
 ![Prog7_UML_Book_Author.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog7_UML_Book_Author.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P7_Book_Author)
+Solution (Java): [P7_Book_Author](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P7_Book_Author)
 
 8. Create a program to represent the UML: 
 
 ![Prog8_UML_MyPoint.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog8_UML_MyPoint.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P8_MyPoint)
+Solution (Java): [P8_MyPoint](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P8_MyPoint)
 
 9. Create a program to represent the UML: 
 
 ![Prog9_UML_MyCircle_MyPoint.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog9_UML_MyCircle_MyPoint.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P9_MyCircle_MyPoint)
+Solution (Java): [P9_MyCircle_MyPoint](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P9_MyCircle_MyPoint)
 
 10. Create a program to represent the UML: 
 
 ![Prog10_UML_Customer.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog10_UML_Customer.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P10_Customer)
+Solution (Java): [P10_Customer](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P10_Customer)
 
 11. Create a program to represent the UML: 
 
 ![Prog11_UML_Account.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog11_UML_Account.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P11_Account)
+Solution (Java): [P11_Account](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P11_Account)
 
 12. Create a program to represent the UML: 
 
 ![Prog12_UML_Person_Student_Staff.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog12_UML_Person_Student_Staff.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P12_Person_Student_Staff)
+Solution (Java): [P12_Person_Student_Staff](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P12_Person_Student_Staff)
 
 13. Create a program to represent the UML: 
 
 ![Prog13_UML_Shape_Circle_Rectangle_Square.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified_Modeling_Language/Prog13_UML_Shape_Circle_Rectangle_Square.png)
 
-Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P13_Shape_Circle_Rectangle_Square)
+Solution (Java): [P13_Shape_Circle_Rectangle_Square](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P13_Shape_Circle_Rectangle_Square)
 
 Go back to [Contents](#contents).
