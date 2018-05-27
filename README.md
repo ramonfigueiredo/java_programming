@@ -6,6 +6,7 @@ Some programming examples in Java
 2. [Loop](#loop)
 3. [Arrays](#arrays)
 4. [Methods](#methods)
+5. [Files](#files)
 
 ## Conditional
 
@@ -103,3 +104,25 @@ Some programming examples in Java
 5. Create a program that uses a function that receives a 5x5 matrix as a parameter. The function should print the elements on the main diagonal of the matrix.
 
 	Solution (Java): [Prog5PrintMatrixMainDiagonal.java](https://github.com/ramon-pessoa/java_programming/blob/master/methods_and_recursion/Prog5PrintMatrixMainDiagonal.java)
+
+## Files
+
+1. Create a program that opens a file called *input.txt*, read the contents of this file and save it to a new file called *output.txt*.
+
+	Solution (Java): [Prog1_OpenSaveFiles.java](https://github.com/ramon-pessoa/java_programming/blob/master/file_processing/Prog1_OpenSaveFiles.java)
+
+2. Create a program that reads a file called *input_vector.txt*, where the first value of this file is the size of the vector. Create a file named *output_vector.txt* with the same data as the file *input_vector.txt*. Use functions to read and write the vector.
+
+	Solution (Java): [Prog2_FilesAndVectors.java](https://github.com/ramon-pessoa/java_programming/blob/master/file_processing/Prog2_FilesAndVectors.java)
+
+3. Create a program that reads a file called *input_vector.txt*, where the first value of this file is the size of the vector. Create a file named *largest_smallest.txt* that saves the largest value on the first line and the smallest value on the second line in the vector. Use functions to read and write files.
+
+	Solution (Java): [Prog3_LargestAndSmallestValuesInFiles.java](https://github.com/ramon-pessoa/java_programming/blob/master/file_processing/Prog3_LargestAndSmallestValuesInFiles.java)
+
+4. Create a program that reads a file called *input_matrix.txt*, where the first line has the number of rows and the number of columns separated by space. Create a file called *output_matrix.txt* with the data in the matrix format. Use functions to read and write the array.
+
+	Solution (Java): [Prog4_FilesAndMatrices.java](https://github.com/ramon-pessoa/java_programming/blob/master/file_processing/Prog4_FilesAndMatrices.java)
+
+5. Create a program that reads a file called *input_matrix.txt*, where the first line has the number of rows and the number of columns separated by space. Create a file named *main_diagonal.txt* that saves the values of the main diagonal of the read matrix. Use functions to read and write the array.
+
+	Solution (Java): [Prog5_SaveMainDiagonalMatrix.java](https://github.com/ramon-pessoa/java_programming/blob/master/file_processing/Prog5_SaveMainDiagonalMatrix.java)
