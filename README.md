@@ -144,6 +144,6 @@ Go back to [Contents](#contents).
 
 ![Prog1_UML_Circle.png](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/Unified%20Modeling%20Language%20(UML)/Prog1_UML_Circle.png)
 
-	Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P1_Circle)
+Solution (Java): [P1_Circle](https://github.com/ramon-pessoa/java_programming/blob/master/object_oriented_programming/P1_Circle)
 
 Go back to [Contents](#contents).
