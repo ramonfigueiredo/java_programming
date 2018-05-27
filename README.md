@@ -2,11 +2,11 @@ Some programming examples in Java
 ===========================
 
 ## Contents
-1. [Conditional](#conditional)
-2. [Loop](#loop)
+1. [Conditional Operators](#conditional)
+2. [Loops](#loops)
 3. [Arrays](#arrays)
-4. [Methods](#methods)
-5. [Files](#files)
+4. [Methods and Recursion](#methods)
+5. [Files Processing](#files)
 
 ## Conditional
 
@@ -38,7 +38,7 @@ Some programming examples in Java
 
 	Solution (Java): [Prog5FarenheitToCelsius.java](https://github.com/ramon-pessoa/java_programming/blob/master/conditional_operators/Prog5FarenheitToCelsius.java)
 
-## Loop
+## Loops
 
 1. Create a program that reads 20 integers and print how many are even and how many are odd.
 
