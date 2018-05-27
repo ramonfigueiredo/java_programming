@@ -39,7 +39,7 @@ Some programming examples in Java
 
 	Solution (Java): [Prog5FarenheitToCelsius.java](https://github.com/ramon-pessoa/java_programming/blob/master/conditional_operators/Prog5FarenheitToCelsius.java)
 
-Go back to [Contents](#contents)
+Go back to [Contents](#contents).
 
 ## Loops
 
@@ -64,7 +64,7 @@ Go back to [Contents](#contents)
 
 	Solution (Java): [Prog5VegetationToCoverTheRoof.java](https://github.com/ramon-pessoa/java_programming/blob/master/loops/Prog5VegetationToCoverTheRoof.java)
 
-Go back to [Contents](#contents)
+Go back to [Contents](#contents).
 
 ## Arrays
 
@@ -88,7 +88,7 @@ Go back to [Contents](#contents)
 
 	Solution (Java): [Prog5TransferEvenAndNegativeElementsFromMatrixToVector.java](https://github.com/ramon-pessoa/java_programming/blob/master/arrays/Prog5TransferEvenAndNegativeElementsFromMatrixToVector.java)
 
-Go back to [Contents](#contents)
+Go back to [Contents](#contents).
 
 ## Methods
 
@@ -112,7 +112,7 @@ Go back to [Contents](#contents)
 
 	Solution (Java): [Prog5PrintMatrixMainDiagonal.java](https://github.com/ramon-pessoa/java_programming/blob/master/methods_and_recursion/Prog5PrintMatrixMainDiagonal.java)
 
-Go back to [Contents](#contents)
+Go back to [Contents](#contents).
 
 ## Files
 
@@ -136,6 +136,6 @@ Go back to [Contents](#contents)
 
 	Solution (Java): [Prog5_SaveMainDiagonalMatrix.java](https://github.com/ramon-pessoa/java_programming/blob/master/file_processing/Prog5_SaveMainDiagonalMatrix.java)
 
-Go back to [Contents](#contents)
+Go back to [Contents](#contents).
 
 ## OOP
