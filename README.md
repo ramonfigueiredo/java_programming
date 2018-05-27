@@ -86,10 +86,20 @@ Some programming examples in Java
 
 1. Write a program to find the largest and smallest number between two numbers.
 
+Solution (Java): [Prog1FindLargestSmallestNumber.java](https://github.com/ramon-pessoa/java_programming/blob/master/methods_and_recursion/Prog1FindLargestSmallestNumber.java)
+
 2. Create a program that finds the factorial of any number using recursion.
+
+Solution (Java): [Prog2FactorialWithRecursion.java](https://github.com/ramon-pessoa/java_programming/blob/master/methods_and_recursion/Prog2FactorialWithRecursion.java)
 
 3. Create a program that finds the factorial of any number **without** using recursion.
 
+Solution (Java): [Prog3FactorialWithoutRecursion.java](https://github.com/ramon-pessoa/java_programming/blob/master/methods_and_recursion/Prog3FactorialWithoutRecursion.java)
+
 4. Create a program in that uses a function called *sumVectorElements* that sums all numbers of a vector of integers passed to this function (first parameter) and returns the sum of the elements. The function must receive a second parameter called *size* that contains the number of elements in the vector.
 
+Solution (Java): [Prog4SumVectorElements.java](https://github.com/ramon-pessoa/java_programming/blob/master/methods_and_recursion/Prog4SumVectorElements.java)
+
 5. Create a program that uses a function that receives a 5x5 matrix as a parameter. The function should print the elements on the main diagonal of the matrix.
+
+Solution (Java): [Prog5PrintMatrixMainDiagonal.java](https://github.com/ramon-pessoa/java_programming/blob/master/methods_and_recursion/Prog5PrintMatrixMainDiagonal.java)
