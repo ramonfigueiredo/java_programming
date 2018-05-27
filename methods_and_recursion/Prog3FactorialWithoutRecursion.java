@@ -4,7 +4,7 @@ package methods_and_recursion;
  * 
  * @author Ramon Figueiredo Pessoa
  *
- *         Create a program that finds the factorial of any number using
+ *         Create a program that finds the factorial of any number without using
  *         recursion.
  * 
  */

@@ -83,3 +83,13 @@ Some programming examples in Java
 	Solution (Java): [Prog5TransferEvenAndNegativeElementsFromMatrixToVector.java](https://github.com/ramon-pessoa/java_programming/blob/master/arrays/Prog5TransferEvenAndNegativeElementsFromMatrixToVector.java)
 
 ## Methods
+
+1. Write a program to find the largest and smallest number between two numbers.
+
+2. Create a program that finds the factorial of any number using recursion.
+
+3. Create a program that finds the factorial of any number **without** using recursion.
+
+4. Create a program in that uses a function called *sumVectorElements* that sums all numbers of a vector of integers passed to this function (first parameter) and returns the sum of the elements. The function must receive a second parameter called *size* that contains the number of elements in the vector.
+
+5. Create a program that uses a function that receives a 5x5 matrix as a parameter. The function should print the elements on the main diagonal of the matrix.

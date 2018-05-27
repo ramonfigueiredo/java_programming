@@ -6,11 +6,11 @@ import java.util.Scanner;
  * 
  * @author Ramon Figueiredo Pessoa
  *
- *         Create a program in that uses a function called sum that sums all
- *         numbers of a vector of integers passed to this function (first
- *         parameter) and returns the 'sumVectorElements' of the elements of the
- *         vector as an integer. The function must receive a second parameter
- *         called 'size' that contains the number of elements in the vector.
+ *         Create a program in that uses a function called 'sumVectorElements' that
+ *         sums all numbers of a vector of integers passed to this function (first
+ *         parameter) and returns the sum of the elements. The function must 
+ *         receive a second parameter called 'size' that contains the number 
+ *         of elements in the vector.
  */
 
 public class Prog4SumVectorElements {
