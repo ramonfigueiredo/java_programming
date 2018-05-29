@@ -224,7 +224,7 @@ Go back to [Contents](#contents).
 ## DesignPatterns
 
 * **Creational Patterns**
-	1. **AbstractFactory:** Provides an interface for creating families of related or dependent objects without specifying concrete classes. Also known as *Kit*.		
+	1. **AbstractFactory:** Provides an interface for creating families of related or dependent objects without specifying concrete classes. Also known as *Kit*.
 		* Benefits:
 			* Isolates the client from the concrete classes (implementation). 
 			* It makes changing families of objects easier. 
@@ -235,8 +235,15 @@ Go back to [Contents](#contents).
 			* The family of related objects is intended to be used together and this restriction needs to be enforced.
 			* You want to provide a library of objects that does not show implementations and only reveal interfaces.
 		* Solution (Java): [AbstractFactory](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/AbstractFactory)
-	2. **Builder:**
-		* Solution (Java): [Builder]()
+	2. **Builder:** It separates the construction of a complex object from its representation so that the construction process can create different representations. Also known as *Kit*.
+		* Benefits:
+			* It allows to vary an internal representation of the object.
+			* Isolates the code for construction and representation.
+			* Provides refined control over the building process.
+		* Applicable Scenarios: The following scenarios are best suited to the *Builder* pattern:
+			* The algorithm to create a complex object must be independent of the components that make up the object and how they are assembled.
+			* The construction process is to allow different representations of the constructed object.
+		* Solution (Java): [Builder](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/Builder)
 	3. **Factory Method:**
 		* Solution (Java): [Factory Method]()
 	4. **Prototype:**
