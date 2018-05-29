@@ -223,8 +223,8 @@ Go back to [Contents](#contents).
 
 ## DesignPatterns
 
-* Creational Patterns
-	1. AbstractFactory: Provides an interface for creating families of related or dependent objects without specifying concrete classes. Also known as *Kit*.		
+* **Creational Patterns**
+	1. **AbstractFactory:** Provides an interface for creating families of related or dependent objects without specifying concrete classes. Also known as *Kit*.		
 		* Benefits:
 			* Isolates the client from the concrete classes (implementation). 
 			* It makes changing families of objects easier. 
@@ -236,6 +236,22 @@ Go back to [Contents](#contents).
 			* You want to provide a library of objects that does not show implementations and only reveal interfaces.
 
 Solution (Java): [AbstractFactory](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/AbstractFactory)
+
+	2. **Builder:**
+
+Solution (Java): [Builder]()
+
+	3. **Factory Method:**
+
+Solution (Java): [Factory Method]()
+
+	4. **Prototype:**
+
+Solution (Java): [Prototype]()
+
+	5. **Singleton:**
+
+Solution (Java): [Singleton]()
 
 * Structural Patterns
 
