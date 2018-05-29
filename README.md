@@ -234,24 +234,15 @@ Go back to [Contents](#contents).
 			* The system needs to be configured with one of several object families.
 			* The family of related objects is intended to be used together and this restriction needs to be enforced.
 			* You want to provide a library of objects that does not show implementations and only reveal interfaces.
-
-Solution (Java): [AbstractFactory](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/AbstractFactory)
-
+		* Solution (Java): [AbstractFactory](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/AbstractFactory)
 	2. **Builder:**
-
-Solution (Java): [Builder]()
-
+		* Solution (Java): [Builder]()
 	3. **Factory Method:**
-
-Solution (Java): [Factory Method]()
-
+		* Solution (Java): [Factory Method]()
 	4. **Prototype:**
-
-Solution (Java): [Prototype]()
-
+		* Solution (Java): [Prototype]()
 	5. **Singleton:**
-
-Solution (Java): [Singleton]()
+		* Solution (Java): [Singleton]()
 
 * Structural Patterns
 
