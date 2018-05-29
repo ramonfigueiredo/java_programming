@@ -245,7 +245,43 @@ Go back to [Contents](#contents).
 		* Solution (Java): [Singleton]()
 
 * Structural Patterns
+	1. **Adapter:** 
+		* Solution (Java): [Adapter]()
+	2. **Bridge:**
+		* Solution (Java): [Bridge]()
+	3. **Composite:**
+		* Solution (Java): [Composite]()
+	4. **Decorator:**
+		* Solution (Java): [Decorator]()
+	5. **Facade:**
+		* Solution (Java): [Facade]()
+	6. **Flyweight**
+		* Solution (Java): [Flyweight]()
+	7. **Proxy**
+		* Solution (Java): [Proxy]()
 
 * Behavioral Patterns
+	1. **Chain of Responsability:** 
+		* Solution (Java): [Adapter]()
+	2. **Command:**
+		* Solution (Java): [Command]()
+	3. **Interpreter:**
+		* Solution (Java): [Interpreter]()
+	4. **Iterator:**
+		* Solution (Java): [Iterator]()
+	5. **Mediator:**
+		* Solution (Java): [Mediator]()
+	6. **Memento:**
+		* Solution (Java): [Memento]()
+	7. **Observer:** 
+		* Solution (Java): [Observer]()
+	8. **State:**
+		* Solution (Java): [State]()
+	9. **Strategy:**
+		* Solution (Java): [Strategy]()
+	10. **Template Method:**
+		* Solution (Java): [Template Method]()
+	11. **Visitor:**
+		* Solution (Java): [Visitor]()
 
 Go back to [Contents](#contents).
