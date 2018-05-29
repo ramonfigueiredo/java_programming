@@ -8,7 +8,7 @@ Some programming examples in Java
 4. [Methods and Recursion](#methods)
 5. [Files Processing](#files)
 6. [Object Oriented Programming (OOP)](#oop)
-7. [Design Patterns)](#designpatterns)
+7. [Design Patterns](#designpatterns)
 
 ## Conditional
 
@@ -223,11 +223,12 @@ Go back to [Contents](#contents).
 
 ## DesignPatterns
 
-* Creational Patterns
+1. Creational Patterns
 	1. AbstractFactory
+	Solution (Java): [AbstractFactory](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/AbstractFactory)
 
-* Structural Patterns
+2. Structural Patterns
 
-* Behavioral Patterns
+3. Behavioral Patterns
 
 Go back to [Contents](#contents).
