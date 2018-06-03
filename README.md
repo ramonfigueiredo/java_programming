@@ -269,7 +269,7 @@ Go back to [Contents](#contents).
 
 * Behavioral Patterns
 	1. **Chain of Responsability:** 
-		* Solution (Java): [Adapter]()
+		* Solution (Java): [Chain of Responsability]()
 	2. **Command:**
 		* Solution (Java): [Command]()
 	3. **Interpreter:**
