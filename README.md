@@ -253,7 +253,7 @@ Go back to [Contents](#contents).
 
 * Structural Patterns
 	1. **Adapter:** 
-		* Solution (Java): [Adapter]()
+		* Solution (Java): [Adapter](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Adapter)
 	2. **Bridge:**
 		* Solution (Java): [Bridge]()
 	3. **Composite:**
