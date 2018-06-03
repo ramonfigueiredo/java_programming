@@ -249,7 +249,7 @@ Go back to [Contents](#contents).
 	4. **Prototype:**
 		* Solution (Java): [Prototype](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/Prototype)
 	5. **Singleton:**
-		* Solution (Java): [Singleton]()
+		* Solution (Java): [Singleton](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/Singleton)
 
 * Structural Patterns
 	1. **Adapter:** 
