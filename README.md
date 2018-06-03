@@ -245,7 +245,7 @@ Go back to [Contents](#contents).
 			* The construction process is to allow different representations of the constructed object.
 		* Solution (Java): [Builder](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/Builder)
 	3. **Factory Method:**
-		* Solution (Java): [Factory Method]()
+		* Solution (Java): [Factory Method](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/FactoryMethod)
 	4. **Prototype:**
 		* Solution (Java): [Prototype]()
 	5. **Singleton:**
