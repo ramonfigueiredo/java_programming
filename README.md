@@ -247,7 +247,7 @@ Go back to [Contents](#contents).
 	3. **Factory Method:**
 		* Solution (Java): [Factory Method](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/FactoryMethod)
 	4. **Prototype:**
-		* Solution (Java): [Prototype]()
+		* Solution (Java): [Prototype](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/Prototype)
 	5. **Singleton:**
 		* Solution (Java): [Singleton]()
 
