@@ -259,7 +259,7 @@ Go back to [Contents](#contents).
 	3. **Composite:**
 		* Solution (Java): [Composite](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Composite)
 	4. **Decorator:**
-		* Solution (Java): [Decorator]()
+		* Solution (Java): [Decorator](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Decorator)
 	5. **Facade:**
 		* Solution (Java): [Facade]()
 	6. **Flyweight**
