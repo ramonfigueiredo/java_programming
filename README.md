@@ -255,7 +255,7 @@ Go back to [Contents](#contents).
 	1. **Adapter:** 
 		* Solution (Java): [Adapter](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Adapter)
 	2. **Bridge:**
-		* Solution (Java): [Bridge]()
+		* Solution (Java): [Bridge](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Bridge)
 	3. **Composite:**
 		* Solution (Java): [Composite]()
 	4. **Decorator:**
