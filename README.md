@@ -261,7 +261,7 @@ Go back to [Contents](#contents).
 	4. **Decorator:**
 		* Solution (Java): [Decorator](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Decorator)
 	5. **Facade:**
-		* Solution (Java): [Facade]()
+		* Solution (Java): [Facade](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Facade)
 	6. **Flyweight**
 		* Solution (Java): [Flyweight]()
 	7. **Proxy**
