@@ -269,26 +269,26 @@ Go back to [Contents](#contents).
 
 * **Behavioral Patterns**
 	1. **Chain of Responsability:** 
-		* Solution (Java): [Chain of Responsability]()
+		* Solution (Java): [Chain of Responsability](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/ChainOfResponsability)
 	2. **Command:**
-		* Solution (Java): [Command]()
+		* Solution (Java): [Command](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Command)
 	3. **Interpreter:**
-		* Solution (Java): [Interpreter]()
+		* Solution (Java): [Interpreter](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Interpreter)
 	4. **Iterator:**
-		* Solution (Java): [Iterator]()
+		* Solution (Java): [Iterator](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Iterator)
 	5. **Mediator:**
-		* Solution (Java): [Mediator]()
+		* Solution (Java): [Mediator](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Mediator)
 	6. **Memento:**
-		* Solution (Java): [Memento]()
+		* Solution (Java): [Memento](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Memento)
 	7. **Observer:** 
-		* Solution (Java): [Observer]()
+		* Solution (Java): [Observer](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Observer)
 	8. **State:**
-		* Solution (Java): [State]()
+		* Solution (Java): [State](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/State)
 	9. **Strategy:**
-		* Solution (Java): [Strategy]()
+		* Solution (Java): [Strategy](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Strategy)
 	10. **Template Method:**
-		* Solution (Java): [Template Method]()
+		* Solution (Java): [Template Method](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/TemplateMethod)
 	11. **Visitor:**
-		* Solution (Java): [Visitor]()
+		* Solution (Java): [Visitor](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Visitor)
 
 Go back to [Contents](#contents).
