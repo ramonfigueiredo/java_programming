@@ -265,7 +265,7 @@ Go back to [Contents](#contents).
 	6. **Flyweight**
 		* Solution (Java): [Flyweight](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Flyweight)
 	7. **Proxy**
-		* Solution (Java): [Proxy]()
+		* Solution (Java): [Proxy](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Proxy)
 
 * Behavioral Patterns
 	1. **Chain of Responsability:** 
