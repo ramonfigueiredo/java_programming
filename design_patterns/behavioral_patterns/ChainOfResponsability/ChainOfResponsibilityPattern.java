@@ -8,7 +8,7 @@ package design_patterns.behavioral_patterns.ChainOfResponsability;
 
 public class ChainOfResponsibilityPattern {
 	public static void main(String[] args) {
-		System.out.println("Chain of Responsibility Pattern Pattern Demonstration.");
+		System.out.println("Chain of Responsibility Pattern Demonstration.");
 		System.out.println("------------------------------------------------------");
 		try {
 			// Create Equity Order request.
