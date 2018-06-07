@@ -251,7 +251,7 @@ Go back to [Contents](#contents).
 	5. **Singleton:**
 		* Solution (Java): [Singleton](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/Singleton)
 
-* Structural Patterns
+* **Structural Patterns**
 	1. **Adapter:** 
 		* Solution (Java): [Adapter](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Adapter)
 	2. **Bridge:**
@@ -267,7 +267,7 @@ Go back to [Contents](#contents).
 	7. **Proxy**
 		* Solution (Java): [Proxy](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Proxy)
 
-* Behavioral Patterns
+* **Behavioral Patterns**
 	1. **Chain of Responsability:** 
 		* Solution (Java): [Chain of Responsability]()
 	2. **Command:**
