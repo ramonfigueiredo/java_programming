@@ -263,7 +263,7 @@ Go back to [Contents](#contents).
 	5. **Facade:**
 		* Solution (Java): [Facade](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Facade)
 	6. **Flyweight**
-		* Solution (Java): [Flyweight]()
+		* Solution (Java): [Flyweight](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Flyweight)
 	7. **Proxy**
 		* Solution (Java): [Proxy]()
 
