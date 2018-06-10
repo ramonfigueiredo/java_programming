@@ -235,7 +235,7 @@ Go back to [Contents](#contents).
 			* The family of related objects is intended to be used together and this restriction needs to be enforced.
 			* You want to provide a library of objects that does not show implementations and only reveal interfaces.
 		* Solution (Java): [AbstractFactory](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/AbstractFactory)
-	2. **Builder:** It separates the construction of a complex object from its representation so that the construction process can create different representations. Also known as *Kit*.
+	2. **Builder:** It separates the construction of a complex object from its representation so that the construction process can create different representations.
 		* Benefits:
 			* It allows to vary an internal representation of the object.
 			* Isolates the code for construction and representation.
@@ -244,7 +244,7 @@ Go back to [Contents](#contents).
 			* The algorithm to create a complex object must be independent of the components that make up the object and how they are assembled.
 			* The construction process is to allow different representations of the constructed object.
 		* Solution (Java): [Builder](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/Builder)
-	3. **Factory Method:** Defines an interface to create an object, allowing subclasses to decide which class to instantiate. Allows a class to set the current instantiation for subclasses.
+	3. **Factory Method:** Defines an interface to create an object, allowing subclasses to decide which class to instantiate. Allows a class to set the current instantiation for subclasses. Also known as *Virtual Builder*.
 		* Solution (Java): [Factory Method](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/FactoryMethod)
 	4. **Prototype:** Specifies the types of objects to be created using a prototype instance and creates new objects by copying this prototype.
 		* Solution (Java): [Prototype](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/Prototype)
@@ -252,39 +252,39 @@ Go back to [Contents](#contents).
 		* Solution (Java): [Singleton](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/creational_patterns/Singleton)
 
 * **Structural Patterns**
-	1. **Adapter:** Converts the interface of the class to another interface and that the client expects. It allows classes to work together that could not do this because of incompatible interfaces.
+	1. **Adapter:** Converts the interface of the class to another interface and that the client expects. It allows classes to work together that could not do this because of incompatible interfaces.  Also known as *Wrapper*.
 		* Solution (Java): [Adapter](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Adapter)
-	2. **Bridge:** Ungroup the abstraction from its implementation so that the two can vary independently.
+	2. **Bridge:** Ungroup the abstraction from its implementation so that the two can vary independently. Also known as *Handle/Body*.
 		* Solution (Java): [Bridge](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Bridge)
 	3. **Composite:** Composes objects in tree structures to represent part-whole hierarchies. Allows customers to treat objects and compositions of individual objects in a uniform manner.
 		* Solution (Java): [Composite](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Composite)
-	4. **Decorator:** Attaches the responsibilities included to an object dynamically. Provides flexible alternative for subclassing to extend functionality.
+	4. **Decorator:** Attaches the responsibilities included to an object dynamically. Provides flexible alternative for subclassing to extend functionality. Also known as *Wrapper*.
 		* Solution (Java): [Decorator](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Decorator)
 	5. **Facade:** Provides a unified interface to a set of interfaces in one or more subsystems. Defines a higher-level interface that makes subsystems easier to use.
 		* Solution (Java): [Facade](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Facade)
 	6. **Flyweight** It uses sharing to support large numbers of refined objects in an efficient way.
 		* Solution (Java): [Flyweight](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Flyweight)
-	7. **Proxy** Provides a bookmark or substitute for another object to control access.
+	7. **Proxy** Provides a bookmark or substitute for another object to control access. Also known as *Substitute*.
 		* Solution (Java): [Proxy](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/structural_patterns/Proxy)
 
 * **Behavioral Patterns**
 	1. **Chain of Responsability:** It avoids grouping the sender of a request to its recipient, giving more than one object a chance to handle the request. The received objects are aligned and transmit the request until it is handled.
 		* Solution (Java): [Chain of Responsability](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/ChainOfResponsability)
-	2. **Command:** Encapsulates a request as an object, allowing the client to receive parameters with different requests, to align or register requests, and to be able to support and undo operations.
+	2. **Command:** Encapsulates a request as an object, allowing the client to receive parameters with different requests, to align or register requests, and to be able to support and undo operations. Also known as *Action or Transaction*.
 		* Solution (Java): [Command](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Command)
 	3. **Interpreter:** According to a language, it defines a representation for its grammar along with an interpreter of the grammar that uses the representation to interpret sentences in the language.
 		* Solution (Java): [Interpreter](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Interpreter)
-	4. **Iterator:** Provides a way to access the elements of a collection object [aggregate] sequentially without having to expose the base representation.
+	4. **Iterator:** Provides a way to access the elements of a collection object [aggregate] sequentially without having to expose the base representation. Also known as *Cursor*.
 		* Solution (Java): [Iterator](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Iterator)
 	5. **Mediator:** Defines an object that encapsulates like a set of objects interacts (free grouping), preventing objects from referring to each other directly and varying their interaction independently.
 		* Solution (Java): [Mediator](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Mediator)
-	6. **Memento:** Without violating the encapsulation, it captures and externalizes an internal state of the object so that the essential state of the object can be restarted later.
+	6. **Memento:** Without violating the encapsulation, it captures and externalizes an internal state of the object so that the essential state of the object can be restarted later. Also known as *Token*.
 		* Solution (Java): [Memento](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Memento)
-	7. **Observer:** Defines a one-to-many dependency between objects so that when an object changes state, all its dependents (subscribers) are notified and updated automatically.
+	7. **Observer:** Defines a one-to-many dependency between objects so that when an object changes state, all its dependents (subscribers) are notified and updated automatically. Also known as *Dependents or Publish-Subscribe*.
 		* Solution (Java): [Observer](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Observer)
-	8. **State:** Allows an object to change its behavior when its internal state changes; the object will appear to change its class.
+	8. **State:** Allows an object to change its behavior when its internal state changes; the object will appear to change its class. Also known as *Objects for State*.
 		* Solution (Java): [State](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/State)
-	9. **Strategy:** It defines a family of algorithms, encapsulating each one and making them interchangeable. Allows the algorithm to vary independently of the clients that use it.
+	9. **Strategy:** It defines a family of algorithms, encapsulating each one and making them interchangeable. Allows the algorithm to vary independently of the clients that use it. Also known as *Policy*.
 		* Solution (Java): [Strategy](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Strategy)
 	10. **Template Method:** Defines the skeleton of an algorithm (function) in an operation, deferring some steps for subclasses. It allows subclasses to redefine certain steps of an algorithm without changing its structure.
 		* Solution (Java): [Template Method](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/TemplateMethod)
