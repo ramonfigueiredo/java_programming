@@ -9,6 +9,7 @@ Some programming examples in Java
 5. [Files Processing](#files)
 6. [Object Oriented Programming (OOP)](#oop)
 7. [Design Patterns](#designpatterns)
+8. [Solutions for coding problems](#solutions-for-coding-problems)
 
 ## Conditional
 
@@ -290,5 +291,15 @@ Go back to [Contents](#contents).
 		* Solution (Java): [Template Method](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/TemplateMethod)
 	11. **Visitor:** Represents an operation to be performed on the elements of an object structure. Allows you to define a new operation without changing the classes of the elements in which it operates.
 		* Solution (Java): [Visitor](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Visitor)
+
+
+## Solutions for coding problems
+
+1. Problem #1 [Easy]: Given a list of numbers and a number k, return whether any two numbers from the list add up to k. 
+	* For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17. 
+	* Bonus: Can you do this in one pass?
+
+	a. Solution (Java) [VerifyIfTwoNumbersInAListAddUpToK.java](https://github.com/ramon-pessoa/java_programming/blob/master/solutions_for_coding_problems/VerifyIfTwoNumbersInAListAddUpToK.class.java)
+
 
 Go back to [Contents](#contents).
