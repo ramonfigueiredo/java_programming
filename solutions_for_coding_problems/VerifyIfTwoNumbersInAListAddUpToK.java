@@ -14,16 +14,16 @@ public class VerifyIfTwoNumbersInAListAddUpToK {
     }
 
     public static boolean containsPairWithSum(int[] list, int k) {
-    Arrays.sort(list);
-    for (int i = 0, j = list.length - 1; i < j;) {
-        int sum = list[i] + list[j];
-        if (sum < k)
-            i++;
-        else if (sum > k)
-            j--;
-        else
-            return true;
+        Arrays.sort(list);
+        for (int i = 0, j = list.length - 1; i < j;) {
+            int sum = list[i] + list[j];
+            if (sum < k)
+                i++;
+            else if (sum > k)
+                j--;
+            else
+                return true;
+        }
+        return false;
     }
-    return false;
-}
 }
