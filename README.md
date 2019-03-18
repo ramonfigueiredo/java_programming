@@ -299,7 +299,7 @@ Go back to [Contents](#contents).
 	* For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17. 
 	* Bonus: Can you do this in one pass?
 
-	a. Solution (Java) [VerifyIfTwoNumbersInAListAddUpToK.java](https://github.com/ramon-pessoa/java_programming/blob/master/solutions_for_coding_problems/VerifyIfTwoNumbersInAListAddUpToK.class.java)
+	a. Solution (Java) [VerifyIfTwoNumbersInAListAddUpToK.java](https://github.com/ramon-pessoa/java_programming/blob/master/solutions_for_coding_problems/VerifyIfTwoNumbersInAListAddUpToK.java)
 
 
 Go back to [Contents](#contents).
