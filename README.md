@@ -306,6 +306,6 @@ Go back to [Contents](#contents).
 	* For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be [2, 3, 6].
 	* Follow-up: what if you can't use division?
 
-	a. Solution (Python) [ArrayWithTheProductOfAll.java](https://github.com/ramon-pessoa/python_programming/blob/master/solutions_for_coding_problems/ArrayWithTheProductOfAll.java)
+	a. Solution (Python) [ArrayWithTheProductOfAll.java](https://github.com/ramon-pessoa/java_programming/blob/master/solutions_for_coding_problems/ArrayWithTheProductOfAll.java)
 
 Go back to [Contents](#contents).
