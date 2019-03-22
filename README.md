@@ -9,7 +9,7 @@ Some programming examples in Java
 5. [Files Processing](#files)
 6. [Object Oriented Programming (OOP)](#oop)
 7. [Design Patterns](#designpatterns)
-8. [Sending e-mail using Spring Boot)](#sending-e-mail-using-spring-boot)
+8. [Sending e-mail using Spring Boot](#sending-e-mail-using-spring-boot)
 9. [Solutions for coding problems](#solutions-for-coding-problems)
 
 ## Conditional
@@ -294,7 +294,8 @@ Go back to [Contents](#contents).
 		* Solution (Java): [Visitor](https://github.com/ramon-pessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Visitor)
 
 ## Sending e-mail using Spring Boot
-	* Solution (Java): [sending_email](https://github.com/ramon-pessoa/java_programming/tree/master/sending_email)
+
+1. Solution (Java): [sending_email](https://github.com/ramon-pessoa/java_programming/tree/master/sending_email)
 
 ## Solutions for coding problems
 
