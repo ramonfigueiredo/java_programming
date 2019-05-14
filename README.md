@@ -294,9 +294,13 @@ Go back to [Contents](#contents).
 	11. **Visitor:** Represents an operation to be performed on the elements of an object structure. Allows you to define a new operation without changing the classes of the elements in which it operates.
 		* Solution (Java): [Visitor](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/design_patterns/behavioral_patterns/Visitor)
 
+Go back to [Contents](#contents).
+
 ## Sending e-mail using Spring Boot
 
 1. Solution (Java): Sending e-mail. [sending_email](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/sending_email)
+
+Go back to [Contents](#contents).
 
 ## One to Many Mapping Example with Spring Boot
 
@@ -309,6 +313,8 @@ Go back to [Contents](#contents).
 	![posts_and_comments_relationship.png](https://github.com/ramonfigueiredopessoa/java_programming/blob/master/one_to_many_relationship/posts_and_comments_relationship.png)
 
 	* This example also provide REST APIs to perform CRUD operations on the entities.
+
+Go back to [Contents](#contents).
 
 ## Solutions for coding problems
 
