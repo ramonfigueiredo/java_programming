@@ -300,7 +300,7 @@ Go back to [Contents](#contents).
 
 ## One to Many Mapping Example with Spring Boot
 
-1. Solution (Java): One to Many Mapping between Posts and Comments [one_to_many_relationship_between_posts_and_comments](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship_between_posts_and_comments%0Aone_to_many_relationship_between_posts_and_comments)
+1. Solution (Java): One to Many Mapping between Posts and Comments [one_to_many_relationship](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship)
 
 ![posts_and_comments_relationship.png](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship/posts_and_comments_relationship.png)
 
