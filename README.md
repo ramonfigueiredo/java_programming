@@ -302,7 +302,7 @@ Go back to [Contents](#contents).
 
 1. Solution (Java): One to Many Mapping between Posts and Comments [one_to_many_relationship](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship)
 
-![posts_and_comments_relationship.png](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship/posts_and_comments_relationship.png)
+![posts_and_comments_relationship.png](https://github.com/ramonfigueiredopessoa/java_programming/blob/master/one_to_many_relationship/posts_and_comments_relationship.png)
 
 ## Solutions for coding problems
 
