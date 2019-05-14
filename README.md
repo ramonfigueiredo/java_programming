@@ -297,9 +297,9 @@ Go back to [Contents](#contents).
 
 1. Solution (Java): [sending_email](https://github.com/ramon-pessoa/java_programming/tree/master/sending_email)
 
-2. Solution (Java): One to Many Mapping between Posts and Comments [one_to_many_relationship_between_posts_and_comments](https://github.com/ramon-pessoa/java_programming/tree/master/one_to_many_relationship_between_posts_and_comments)
+2. Solution (Java): One to Many Mapping between Posts and Comments [one_to_many_relationship_between_posts_and_comments](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship_between_posts_and_comments%0Aone_to_many_relationship_between_posts_and_comments)
 
-![one_to_many_relationship_between_posts_and_comments.png](https://github.com/ramon-pessoa/java_programming/blob/master/one_to_many_relationship_between_posts_and_comments/one_to_many_relationship_between_posts_and_comments.png)
+![one_to_many_relationship_between_posts_and_comments.png](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship_between_posts_and_comments%0Aone_to_many_relationship_between_posts_and_comments/one_to_many_relationship_between_posts_and_comments.png)
 
 ## Solutions for coding problems
 
