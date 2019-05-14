@@ -10,7 +10,7 @@ Some programming examples in Java
 6. [Object Oriented Programming (OOP)](#oop)
 7. [Design Patterns](#designpatterns)
 8. [Sending e-mail using Spring Boot](#sending-e-mail-using-spring-boot)
-9. [JPA / Hibernate One to Many Mapping Example with Spring Boot](jpa-/-hibernate-one-to-many-mapping-example-with-spring-noot)
+9. [One to Many Mapping Example with Spring Boot](one-to-many-mapping-example-with-spring-noot)
 10. [Solutions for coding problems](#solutions-for-coding-problems)
 
 ## Conditional
@@ -298,11 +298,11 @@ Go back to [Contents](#contents).
 
 1. Solution (Java): Sending e-mail [sending_email](https://github.com/ramon-pessoa/java_programming/tree/master/sending_email)
 
-## JPA / Hibernate One to Many Mapping Example with Spring Boot
+## One to Many Mapping Example with Spring Boot
 
 1. Solution (Java): One to Many Mapping between Posts and Comments [one_to_many_relationship_between_posts_and_comments](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship_between_posts_and_comments%0Aone_to_many_relationship_between_posts_and_comments)
 
-![posts_and_comments_relationship.png](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship_between_posts_and_comments%0Aone_to_many_relationship_between_posts_and_comments/posts_and_comments_relationship.png)
+![posts_and_comments_relationship.png](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship/posts_and_comments_relationship.png)
 
 ## Solutions for coding problems
 
