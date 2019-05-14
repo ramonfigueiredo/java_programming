@@ -10,7 +10,7 @@ Some programming examples in Java
 6. [Object Oriented Programming (OOP)](#oop)
 7. [Design Patterns](#designpatterns)
 8. [Sending e-mail using Spring Boot](#sending-e-mail-using-spring-boot)
-9. [One to Many Mapping Example with Spring Boot](one-to-many-mapping-example-with-spring-noot)
+9. [One to Many Mapping Example with Spring Boot](#one-to-many-mapping-example-with-spring-noot)
 10. [Solutions for coding problems](#solutions-for-coding-problems)
 
 ## Conditional
@@ -296,11 +296,11 @@ Go back to [Contents](#contents).
 
 ## Sending e-mail using Spring Boot
 
-1. Solution (Java): Sending e-mail [sending_email](https://github.com/ramon-pessoa/java_programming/tree/master/sending_email)
+1. Solution (Java): Sending e-mail. [sending_email](https://github.com/ramon-pessoa/java_programming/tree/master/sending_email)
 
 ## One to Many Mapping Example with Spring Boot
 
-1. Solution (Java): One to Many Mapping between Posts and Comments [one_to_many_relationship](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship)
+1. Solution (Java): One to Many Mapping between Posts and Comments. [one_to_many_relationship](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship)
 
 ![posts_and_comments_relationship.png](https://github.com/ramonfigueiredopessoa/java_programming/blob/master/one_to_many_relationship/posts_and_comments_relationship.png)
 
