@@ -297,6 +297,10 @@ Go back to [Contents](#contents).
 
 1. Solution (Java): [sending_email](https://github.com/ramon-pessoa/java_programming/tree/master/sending_email)
 
+2. Solution (Java): One to Many Mapping between Posts and Comments [one_to_many_relationship_between_posts_and_comments](https://github.com/ramon-pessoa/java_programming/tree/master/one_to_many_relationship_between_posts_and_comments)
+
+![one_to_many_relationship_between_posts_and_comments.png](https://github.com/ramon-pessoa/java_programming/blob/master/one_to_many_relationship_between_posts_and_comments/one_to_many_relationship_between_posts_and_comments.png)
+
 ## Solutions for coding problems
 
 1. Problem #1 [Easy]: Given a list of numbers and a number k, return whether any two numbers from the list add up to k. 
