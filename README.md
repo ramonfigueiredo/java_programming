@@ -302,7 +302,13 @@ Go back to [Contents](#contents).
 
 1. Solution (Java): One to Many Mapping between Posts and Comments. [one_to_many_relationship](https://github.com/ramonfigueiredopessoa/java_programming/tree/master/one_to_many_relationship)
 
-![posts_and_comments_relationship.png](https://github.com/ramonfigueiredopessoa/java_programming/blob/master/one_to_many_relationship/posts_and_comments_relationship.png)
+	* Example showing how to map a one-to-many database relationship at the object level using JPA and Hibernate.
+
+	* Example with two tables - posts and comments of a Blog database schema where the posts table has a one-to-many relationship with the comments table
+
+	![posts_and_comments_relationship.png](https://github.com/ramonfigueiredopessoa/java_programming/blob/master/one_to_many_relationship/posts_and_comments_relationship.png)
+
+	* This example also provide REST APIs to perform CRUD operations on the entities.
 
 ## Solutions for coding problems
 
