@@ -10,7 +10,7 @@ Some programming examples in Java
 6. [Object Oriented Programming (OOP)](#oop)
 7. [Design Patterns](#designpatterns)
 8. [Sending e-mail using Spring Boot](#sending-e-mail-using-spring-boot)
-9. [JPA / Hibernate One to Many Mapping Example with Spring Boot](JPA-/-Hibernate-One-to-Many-Mapping-Example-with-Spring-Boot)
+9. [JPA / Hibernate One to Many Mapping Example with Spring Boot](jpa-/-hibernate-one-to-many-mapping-example-with-spring-noot)
 10. [Solutions for coding problems](#solutions-for-coding-problems)
 
 ## Conditional
