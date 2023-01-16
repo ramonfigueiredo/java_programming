@@ -190,5 +190,35 @@ public class JavaStreamAPITest {
         System.out.println("Min: " + summaryStatistics.getMin());
         System.out.println("Average: " + summaryStatistics.getAverage());
         System.out.println("Max: " + summaryStatistics.getMax());
+        System.out.println();
+
+        System.out.println("15) Given a list of integers, print the squared values");
+        List<Integer> numbers = Arrays.asList(2, 3, 4, 5);
+        List<Integer> squares = numbers.stream().map(x -> x*x).collect(Collectors.toList());
+        System.out.println(squares);
+        System.out.println();
+
+        System.out.println("16) Printing strings starting with 'J'");
+        List<String> names = Arrays.asList("Paul", "John", "Mary", "Jack");
+        List<String> filteredNames = names.stream().filter(s -> s.startsWith("J")).collect(Collectors.toList());
+        System.out.println(filteredNames);
+        System.out.println();
+
+        System.out.println("17) Sorting String array");
+        List<String> sortedNames = names.stream().sorted().collect(Collectors.toList());
+        System.out.println(sortedNames);
+        System.out.println();
+
+        System.out.println("18) Given a list of integers, created a squared set without duplicated values.");
+        // create a list of integers
+        List<Integer> numbers2 = Arrays.asList(2, 3, 4, 5, 2);
+        Set<Integer> squareSet = numbers2.stream().map(x -> x * x).collect(Collectors.toSet());
+        System.out.println(squareSet);
+        System.out.println();
+
+        System.out.println("19) Given a list of integers, get the even values and sum the values");
+        int even = numbers2.stream().filter(x -> x % 2 == 0).reduce(0, (ans, i) -> ans + i);
+        System.out.println(even);
+        System.out.println();
     }
 }
