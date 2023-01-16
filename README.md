@@ -352,4 +352,10 @@ Go back to [Contents](#contents).
 
 ## Java 8 New Features
 
+* ForEach() method in Iterable interface: [ForEachTest.java](https://github.com/ramonfigueiredopessoa/java_programming/blob/master/java_8_new_features/ForEachTest.java)
+* Default and static methods in Interfaces: [DefaulAndStaticMethodsInterfaces.java](https://github.com/ramonfigueiredopessoa/java_programming/blob/master/java_8_new_features/DefaulAndStaticMethodsInterfaces.java)
+* Consumer Interface: [ConsumerInterfaceTest.java](https://github.com/ramonfigueiredopessoa/java_programming/blob/master/java_8_new_features/ConsumerInterfaceTest.java)
+* Lambda Expressions: [LambdaExpressionTest.java](https://github.com/ramonfigueiredopessoa/java_programming/blob/master/java_8_new_features/LambdaExpressionTest.java)
+* Java Stream API for Bulk Data Operations on Collections: [JavaStreamAPITest.java](https://github.com/ramonfigueiredopessoa/java_programming/blob/master/java_8_new_features/JavaStreamAPITest.java)
+
 Go back to [Contents](#contents).
